@@ -1,2 +1,1 @@
-# dcc
-Dudaji Coding Club
+# 두다지 코딩 클럽
