@@ -42,44 +42,23 @@
 
 무료로 진행되며 추후 유료로 전환될 수 있습니다.
 
-
-
 <br/>
 
 ## 스터디 디렉터
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<div class="d-flex">
-    <img src="/images/shhong.png" alt="shhong" class="mr-3" width="200px" height="200px">
-    <div>
-        <h3>
-            홍석환 (shhong)
-        </h3>
-        <ul>
-            <li> 現 (주)두다지 대표 </li>
-            <li> 카이스트 전산학 졸업 </li>
-            <li> 컴퓨터시스템응용기술사 </li>
-            <li> 前 넥슨 게임개발팀 </li>
-            <li> 前 KB투자증권 데이터분석팀 </li>
-        </ul>    
-    </div>
-</div> 
+### 홍석환 (shhong)
 
+- 現 (주)두다지 대표 
+- 카이스트 전산학 졸업
+- 컴퓨터시스템응용기술사
+- 前 넥슨 게임개발팀
+- 前 KB투자증권 데이터분석팀
 
+### 권순재 (soonbee)
 
-<div class="d-flex">
-    <img src="/images/soonbee.png" alt="soonbee" class="mr-3" width="200px" height="200px">
-    <div>
-        <h3>
-            권순재 (soonbee)
-        </h3>
-        <ul>
-            <li> 現 (주)두다지 개발자 </li>
-            <li> 인천대학교 컴퓨터공학과 졸업 </li>
-            <li> 파이썬 & 라즈베리파이 특강 EDISON 진행 </li>
-        </ul>    
-    </div>
-</div> 
+- 現 (주)두다지 개발자
+- 인천대학교 컴퓨터공학과 졸업
+- 파이썬 & 라즈베리파이 특강 EDISON 진행 
 
 <br/>
 
