@@ -20,17 +20,7 @@
 
 장소: [두다지 코딩클럽 라운지](#두다지-코딩클럽-라운지) (수내역 2번출구 도보 1분거리)
 
-
-
-| 항목                      | 교재                                                         | 기간    |
-| ------------------------- | ------------------------------------------------------------ | ------- |
-| ~~git & git-flow~~        | ~~오프라인 강의로 진행~~                                     | ~~1주~~ |
-| ~~데이터구조와 알고리즘~~ | ~~[윤성우의 열혈 자료구조 / 윤성우 지음](https://book.naver.com/bookdb/book_detail.nhn?bid=6809127)~~ | ~~2주~~ |
-| 디자인패턴                | [Head First Design Patterns / 에릭 프리먼 지음](https://book.naver.com/bookdb/book_detail.nhn?bid=1882446) | 2주     |
-| 컴퓨터구조                | [컴퓨터구조론 / 김종현 지음](https://book.naver.com/bookdb/book_detail.nhn?bid=14571753) | 2주     |
-| 운영체제                  | [Operating System Concepts / Silberschatz 지음](https://book.naver.com/bookdb/book_detail.nhn?bid=7218891) | 4주     |
-| 네트워크                  | [Computer Networking: A Top-Down Approach / James Kurose 지음](https://book.naver.com/bookdb/book_detail.nhn?bid=11704812) | 4주     |
-| 코드 컴플리트             | [Code Complete 2 / 스티브 맥코넬 지음](https://book.naver.com/bookdb/book_detail.nhn?bid=12298412) | 2주     |
+![detail_curriculum](/images/dcc_curriculum.png)
 
 > 이번 기수는 `git&git-flow`과 `데이터구조와 알고리즘` 을 제외하고 진행합니다.
 
@@ -110,12 +100,6 @@
 
 
 ![pre-homework_certification](/images/pre-homework_certification.png)
-
-<br/>
-
-## 상세 일정
-
-![detail_curriculum](/images/detail_curriculum.png)
 
 <br/>
 
