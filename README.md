@@ -48,8 +48,8 @@
 
 ## 스터디 디렉터
 
-<div style="float: left;">
-    <img src="/images/shhong.png" alt="" width="200px" height="200px" style="margin-right: 30px">
+<div class="d-flex">
+    <img src="/images/shhong.png" alt="shhong" class="mr-3" width="200px" height="200px">
     <div>
         <h3>
             홍석환 (shhong)
@@ -66,8 +66,8 @@
 
 
 
-<div style="float: left;">
-    <img src="/images/soonbee.png" alt="" width="200px" height="200px" style="margin-right: 30px">
+<div class="d-flex">
+    <img src="/images/soonbee.png" alt="soonbee" class="mr-3" width="200px" height="200px">
     <div>
         <h3>
             권순재 (soonbee)
