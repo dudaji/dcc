@@ -48,12 +48,12 @@
 
 ## 스터디 디렉터
 
-<div style="display: flex;">
-    <img src="/images/shhong.png" alt="" width="200px" height="200px" style="margin-right: 30px">
+<div style="display: flex; flex-direction: row;">
+    <img src="/Users/soonbee/Desktop/shhong.png" alt="" width="200px" height="200px" style="margin-right: 30px">
     <div>
-        <h2>
+        <p style="font-size: 24px; font-weight: bold;">
             홍석환 (shhong)
-        </h2>
+        </p>
         <ul>
             <li> 現 (주)두다지 대표 </li>
             <li> 카이스트 전산학 졸업 </li>
@@ -69,9 +69,9 @@
 <div style="display: flex;">
     <img src="/images/soonbee.png" alt="" width="200px" height="200px" style="margin-right: 30px">
     <div>
-        <h2>
+        <p style="font-size: 24px; font-weight: bold;">
             권순재 (soonbee)
-        </h2>
+        </p>
         <ul>
             <li> 現 (주)두다지 개발자 </li>
             <li> 인천대학교 컴퓨터공학과 졸업 </li>
